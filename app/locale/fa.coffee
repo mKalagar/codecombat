@@ -1,21 +1,21 @@
 module.exports = nativeDescription: "فارسی", englishDescription: "Persian", translation:
-  new_home:
+new_home:
     slogan: "بهترین بازی برای یاد گرفتن برنامه نویسی"
-#    classroom_edition: "Classroom Edition:"
-#    learn_to_code: "Learn to code:"
-    teacher: "معلم"
-    student: "دانش آموز"
-    play_now: "بازی کنید"
-    im_a_teacher: "من یک معلم هستم"
-    im_a_student: "من یک دانش آموز هستم"
-    learn_more: "بیشتر بدانید"
-#    classroom_in_a_box: "A classroom in-a-box for teaching computer science."
-#    codecombat_is: "CodeCombat is a platform <strong>for students</strong> to learn computer science while playing through a real game."
+classroom_edition: "نسخه ی کلاس درس:"
+learn_to_code: "آموزش کدنویسی:"
+teacher: "معلم"
+student: "دانش آموز"
+play_now: "بازی کنید"
+im_a_teacher: "من یک معلم هستم"
+im_a_student: "من یک دانش آموز هستم"
+learn_more: "بیشتر بدانید"
+classroom_in_a_box: "یک کلاس درس فیزیکی، برای آموزش علوم کامپیوتر"
+codecombat_is: "کد کامبت یک پلتفرم برای <strong>دانش آموزان</strong> است که به آنها اجازه میدهد کدنویسی را در خلال یک بازی واقعی یاد بگیرند."
 #    our_courses: "Our courses have been specifically playtested <strong>to excel in the classroom</strong>, even by teachers with little to no prior programming experience."
-#    top_screenshots_hint: "Students write code and see their changes update in real-time"
+top_screenshots_hint: "دانش آموزان کد مینویسند و تغییرات آنرا به صورت همزمان مشاهده میکنند"
 #    designed_with: "Designed with teachers in mind"
 #    real_code: "Real, typed code"
-#    from_the_first_level: "from the first level"
+from_the_first_level: "از اولین سطح"
 #    getting_students: "Getting students to typed code as quickly as possible is critical to learning programming syntax and proper structure."
 #    educator_resources: "Educator resources"
 #    course_guides: "and course guides"
@@ -66,30 +66,30 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    go_to_courses: "Go to My Courses"
 #    want_coco: "Want CodeCombat at your school?"
 
-  nav:
+nav:
     play: "بازی کنید" # The top nav bar entry where players choose which levels to play
 #    community: "Community"
 #    courses: "Courses"
-    blog: "بلاگ"
-    forum: "انجمن"
+blog: "بلاگ"
+forum: "انجمن"
 #    account: "Account"
 #    my_account: "My Account"
 #    profile: "Profile"
-    home: "خانه"
-    contribute: "همکاری"
-    legal: "موارد قانونی"
+home: "خانه"
+contribute: "همکاری"
+legal: "موارد قانونی"
 #    privacy: "Privacy"
-    about: "درباره"
-    contact: "تماس "
-    twitter_follow: "دنبال کردن"
-#    my_classrooms: "My Classes" # {change}
-#    my_courses: "My Courses"
+about: "درباره"
+contact: "تماس "
+twitter_follow: "دنبال کردن"
+my_classrooms: "کلاسهای من" # {change}
+my_courses: "دوره های آموزشی من"
 #    careers: "Careers"
-#    facebook: "Facebook"
-#    twitter: "Twitter"
-#    create_a_class: "Create a Class"
-#    other: "Other"
-#    learn_to_code: "Learn to Code!"
+facebook: "فیسبوک"
+twitter: "توییتر"
+create_a_class: "ساخت یک کلاس"
+other: "سایر"
+learn_to_code: "یادگیری برنامه نویسی!"
 #    toggle_nav: "Toggle navigation"
 #    jobs: "Jobs"
 #    schools: "Schools"
@@ -101,23 +101,23 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    help_suff: "and we'll get in touch!"
 #    resource_hub: "Resource Hub"
 
-  modal:
+modal:
     close: "بستن"
-    okay: "تایید"
+okay: "تایید"
 
-  not_found:
+not_found:
     page_not_found: "صفحه پیدا نشد"
 
-  diplomat_suggestion:
+diplomat_suggestion:
     title: "کمک به ترجمه کمبت کد!" # This shows up when a player switches to a non-English language using the language selector.
     sub_heading: "ما توانایی زبان شما را نیاز داریم"
-    pitch_body: "ما کمبت کد را به زبان انگلیسی توسعه داده ایم اما بازیکنانی از سراسر دنیا داریم. خیلی از آنها دوست داند به فارسی بازیکنند اما انگلیسی صحبت نکنند, پس اگر به هر دو زبان میتوانید صحبت کنید, پس لطفاً به عنوان دیپلمات ثبت نامکنید و مارا در ترجمه بازی و تمام مراحل به فارسی یاری نمایید."
-    missing_translations: "تا زمانی که به مشغول ترجمه به فارسی هستیم , شما انگلیسی مشاهده میکنید بدون ترجمه فارسی."
-    learn_more: "بیشتر درباره دیپلمات بودن بیاموزید"
-    subscribe_as_diplomat: "به عنوان یک دیپلمات تعقیبمان کنید"
+pitch_body: "ما کمبت کد را به زبان انگلیسی توسعه داده ایم اما بازیکنانی از سراسر دنیا داریم. خیلی از آنها دوست داند به فارسی بازیکنند اما انگلیسی صحبت نکنند, پس اگر به هر دو زبان میتوانید صحبت کنید, پس لطفاً به عنوان دیپلمات ثبت نامکنید و مارا در ترجمه بازی و تمام مراحل به فارسی یاری نمایید."
+missing_translations: "تا زمانی که به مشغول ترجمه به فارسی هستیم , شما انگلیسی مشاهده میکنید بدون ترجمه فارسی."
+learn_more: "بیشتر درباره دیپلمات بودن بیاموزید"
+subscribe_as_diplomat: "به عنوان یک دیپلمات تعقیبمان کنید"
 
-  play:
-#    play_as: "Play As" # Ladder page
+play:
+play_as: "بازی به عنوان" # Ladder page
 #    compete: "Compete!" # Course details page
 #    spectate: "Spectate" # Ladder page
 #    players: "players" # Hover over a level on /play
@@ -139,18 +139,18 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    buy_gems: "Buy Gems"
 #    subscription_required: "Subscription Required"
 #    anonymous: "Anonymous Player"
-    level_difficulty: "سختی: "
+level_difficulty: "سختی: "
 #    play_classroom_version: "Play Classroom Version" # Choose a level in campaign version that you also can play in one of your courses
-    campaign_beginner: "کمپین تازه کارها"
+campaign_beginner: "کمپین تازه کارها"
 #    awaiting_levels_adventurer_prefix: "We release new levels every week."
 #    awaiting_levels_adventurer: "Sign up as an Adventurer"
 #    awaiting_levels_adventurer_suffix: "to be the first to play new levels."
 #    adjust_volume: "Adjust volume"
-    campaign_multiplayer: "مسابقات چند نفره"
-    campaign_multiplayer_description: "... جایی که کد رو به رو شدن با بقیه بازیکنان رو مینویسید."
+campaign_multiplayer: "مسابقات چند نفره"
+campaign_multiplayer_description: "... جایی که کد رو به رو شدن با بقیه بازیکنان رو مینویسید."
 
 #  code:
-#    if: "if" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
+    #    if: "if" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
 #    else: "else"
 #    elif: "else if"
 #    while: "while"
@@ -200,19 +200,19 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    None: "None"
 
 #  share_progress_modal:
-#    blurb: "You’re making great progress! Tell your parent how much you've learned with CodeCombat."
+    #    blurb: "You’re making great progress! Tell your parent how much you've learned with CodeCombat."
 #    email_invalid: "Email address invalid."
 #    form_blurb: "Enter your parent's email below and we’ll show them!"
 #    form_label: "Email Address"
 #    placeholder: "email address"
 #    title: "Excellent Work, Apprentice"
 
-  login:
+login:
     sign_up: "ایجاد حساب کاربری"
 #    email_or_username: "Email or username"
-    log_in: "ورود"
+log_in: "ورود"
 #    logging_in: "Logging In"
-    log_out: "خروج"
+log_out: "خروج"
 #    forgot_password: "Forgot your password?"
 #    authenticate_gplus: "Authenticate G+"
 #    load_profile: "Load G+ Profile"
@@ -221,14 +221,14 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    sign_in_with_gplus: "Sign in with G+"
 #    signup_switch: "Want to create an account?"
 
-  signup:
-#    create_student_header: "Create Student Account"
+signup:
+    #    create_student_header: "Create Student Account"
 #    create_teacher_header: "Create Teacher Account"
 #    create_individual_header: "Create Individual Account"
-    email_announcements: "دریافت اطلاعیه ها توسط ایمیل"
-    creating: "...در حال ایجاد حساب کاربری"
-    sign_up: "ثبت نام"
-    log_in: "ورود به وسیله رمز عبور"
+email_announcements: "دریافت اطلاعیه ها توسط ایمیل"
+creating: "...در حال ایجاد حساب کاربری"
+sign_up: "ثبت نام"
+log_in: "ورود به وسیله رمز عبور"
 #    required: "You need to log in before you can go that way."
 #    login_switch: "Already have an account?"
 #    school_name: "School Name and City"
@@ -287,38 +287,38 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    select_your_starting_hero: "Select Your Starting Hero:"
 #    you_can_always_change_your_hero_later: "You can always change your hero later."
 
-  recover:
+recover:
     recover_account_title: "بازیابی حساب کاربری"
-    send_password: "ارسال رمز عبور بازیابی شده"
+send_password: "ارسال رمز عبور بازیابی شده"
 #    recovery_sent: "Recovery email sent."
 
 #  items:
-#    primary: "Primary"
+    #    primary: "Primary"
 #    secondary: "Secondary"
 #    armor: "Armor"
 #    accessories: "Accessories"
 #    misc: "Misc"
 #    books: "Books"
 
-  common:
-#    back: "Back" # When used as an action verb, like "Navigate backward"
+common:
+    #    back: "Back" # When used as an action verb, like "Navigate backward"
 #    coming_soon: "Coming soon!"
 #    continue: "Continue" # When used as an action verb, like "Continue forward"
 #    default_code: "Default Code"
-    loading: "...در حال بارگذاری"
+loading: "...در حال بارگذاری"
 #    overview: "Overview"
 #    solution: "Solution"
 #    intro: "Intro"
-    saving: "...در حال ذخیره سازی"
-    sending: "...در حال ارسال"
+saving: "...در حال ذخیره سازی"
+sending: "...در حال ارسال"
 #    send: "Send"
 #    sent: "Sent"
-    cancel: "لغو"
-    save: "ذخیره "
+cancel: "لغو"
+save: "ذخیره "
 #    publish: "Publish"
 #    create: "Create"
 #    fork: "Fork"
-    play: "سطوح" # When used as an action verb, like "Play next level"
+play: "سطوح" # When used as an action verb, like "Play next level"
 #    retry: "Retry"
 #    actions: "Actions"
 #    info: "Info"
@@ -330,9 +330,9 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    save_changes: "Save Changes"
 #    required_field: "required"
 
-  general:
-#    and: "and"
-    name: "نام"
+general:
+    #    and: "and"
+name: "نام"
 #    date: "Date"
 #    body: "Body"
 #    version: "Version"
@@ -357,12 +357,12 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    result: "Result"
 #    results: "Results"
 #    description: "Description"
-    or: "یا"
+or: "یا"
 #    subject: "Subject"
-    email: "ایمیل"
+email: "ایمیل"
 #    password: "Password"
 #    confirm_password: "Confirm Password"
-    message: "پیام"
+message: "پیام"
 #    code: "Code"
 #    ladder: "Ladder"
 #    when: "When"
@@ -386,7 +386,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    username: "Username"
 
 #  units:
-#    second: "second"
+    #    second: "second"
 #    seconds: "seconds"
 #    minute: "minute"
 #    minutes: "minutes"
@@ -402,7 +402,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    years: "years"
 
 #  play_level:
-#    level_complete: "Level Complete"
+    #    level_complete: "Level Complete"
 #    completed_level: "Completed Level:"
 #    course: "Course:"
 #    done: "Done"
@@ -544,7 +544,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    tip_mulan: "Believe you can, then you will. - Mulan"
 
 #  play_game_dev_level:
-#    created_by: "Created by {{name}}"
+    #    created_by: "Created by {{name}}"
 #    how_to_play_title: "How to play:"
 #    how_to_play_1: "Use the mouse to control the hero!"
 #    how_to_play_2: "Click anywhere on the map to move to that location."
@@ -556,7 +556,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    back_to_coding: "Back to Coding"
 
 #  game_menu:
-#    inventory_tab: "Inventory"
+    #    inventory_tab: "Inventory"
 #    save_load_tab: "Save/Load"
 #    options_tab: "Options"
 #    guide_tab: "Guide"
@@ -573,7 +573,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    auth_caption: "Save your progress."
 
 #  leaderboard:
-#    view_other_solutions: "View Leaderboards"
+    #    view_other_solutions: "View Leaderboards"
 #    scores: "Scores"
 #    top_players: "Top Players by"
 #    day: "Today"
@@ -586,7 +586,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    gold_collected: "Gold Collected"
 
 #  inventory:
-#    equipped_item: "Equipped"
+    #    equipped_item: "Equipped"
 #    required_purchase_title: "Required"
 #    available_item: "Available"
 #    restricted_title: "Restricted"
@@ -598,7 +598,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    unequip: "Unequip"
 
 #  buy_gems:
-#    few_gems: "A few gems"
+    #    few_gems: "A few gems"
 #    pile_gems: "Pile of gems"
 #    chest_gems: "Chest of gems"
 #    purchasing: "Purchasing..."
@@ -611,7 +611,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    price: "x{{gems}} / mo"
 
 #  subscribe:
-#    comparison_blurb: "Sharpen your skills with a CodeCombat subscription!"
+    #    comparison_blurb: "Sharpen your skills with a CodeCombat subscription!"
 #    feature1: "__levelsCount__+ basic levels across __worldsCount__ worlds"
 #    feature2: "__heroesCount__ powerful <strong>new heroes</strong> with unique skills!"
 #    feature3: "__bonusLevelsCount__+ bonus levels"
@@ -670,7 +670,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    using_prepaid: "Using prepaid code for monthly subscription"
 
 #  choose_hero:
-#    choose_hero: "Choose Your Hero"
+    #    choose_hero: "Choose Your Hero"
 #    programming_language: "Programming Language"
 #    programming_language_description: "Which programming language do you want to use?"
 #    default: "Default"
@@ -706,7 +706,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    restricted_to_certain_heroes: "Only certain heroes can play this level."
 
 #  skill_docs:
-#    function: "function" # skill types
+    #    function: "function" # skill types
 #    method: "method"
 #    snippet: "snippet"
 #    number: "number"
@@ -735,11 +735,11 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    granted_by: "Granted by"
 
 #  save_load:
-#    granularity_saved_games: "Saved"
+    #    granularity_saved_games: "Saved"
 #    granularity_change_history: "History"
 
 #  options:
-#    general_options: "General Options" # Check out the Options tab in the Game Menu while playing a level
+    #    general_options: "General Options" # Check out the Options tab in the Game Menu while playing a level
 #    volume_label: "Volume"
 #    music_label: "Music"
 #    music_description: "Turn background music on/off."
@@ -754,7 +754,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    editor_config_behaviors_description: "Autocompletes brackets, braces, and quotes."
 
 #  about:
-#    main_title: "If you want to learn to program, you need to write (a lot of) code."
+    #    main_title: "If you want to learn to program, you need to write (a lot of) code."
 #    main_description: "At CodeCombat, our job is to make sure you're doing that with a smile on your face."
 #    mission_link: "Mission"
 #    team_link: "Team"
@@ -843,7 +843,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    location_title: "We're located in downtown SF:"
 
 #  teachers:
-#    who_for_title: "Who is CodeCombat for?"
+    #    who_for_title: "Who is CodeCombat for?"
 #    who_for_1: "We recommend CodeCombat for students aged 9 and up. No prior programming experience is needed. We've designed CodeCombat to appeal to both boys and girls."
 #    who_for_2: "Our Courses system allows teachers to set up classrooms, track progress and assign additional content to students through a dedicated interface."
 #    more_info_title: "Where can I find more information?"
@@ -853,7 +853,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    licenses_needed: "Licenses needed"
 
 #  teachers_quote:
-#    name: "Demo Form"
+    #    name: "Demo Form"
 #    subtitle: "Get your students started in less than an hour. You'll be able to <strong>create a class, add students, and monitor their progress</strong> as they learn computer science."
 #    email_exists: "User exists with this email."
 #    phone_number: "Phone number"
@@ -903,22 +903,22 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    convert_account_title: "Update to Teacher Account"
 #    not: "Not"
 
-  versions:
+versions:
     save_version_title: "ذخیره کردن نسخه جدید"
-    new_major_version: "New Major Version"
+new_major_version: "New Major Version"
 #    submitting_patch: "Submitting Patch..."
-    cla_prefix: "To save changes, first you must agree to our"
-    cla_url: "CLA"
-    cla_suffix: "."
-    cla_agree: "موافقم"
+cla_prefix: "To save changes, first you must agree to our"
+cla_url: "CLA"
+cla_suffix: "."
+cla_agree: "موافقم"
 #    owner_approve: "An owner will need to approve it before your changes will become visible."
 
-  contact:
+contact:
     contact_us: "CodeCombatتماس با "
-    welcome: "خوب است از شما بشنویم, از طریق این فرم برای ما ایمیل ارسال کنید"
-    forum_prefix: "باری هر چیز عمومی، اینجا را مشاهده کنید "
-    forum_page: "فاروم ما"
-    forum_suffix: " به جای"
+welcome: "خوب است از شما بشنویم, از طریق این فرم برای ما ایمیل ارسال کنید"
+forum_prefix: "باری هر چیز عمومی، اینجا را مشاهده کنید "
+forum_page: "فاروم ما"
+forum_suffix: " به جای"
 #    faq_prefix: "There's also a"
 #    faq: "FAQ"
 #    subscribe_prefix: "If you need help figuring out a level, please"
@@ -927,14 +927,14 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    subscriber_support: "Since you're a CodeCombat subscriber, your email will get our priority support."
 #    screenshot_included: "Screenshot included."
 #    where_reply: "Where should we reply?"
-    send: "ارسال بازخورد"
+send: "ارسال بازخورد"
 
-  account_settings:
+account_settings:
     title: "تنظیمات حساب کاربری"
-    not_logged_in: "برای ایجاد تغییر وارد شوید یا ثبت نام نمایید"
-    autosave: "تغییرات به طور خودکار ثبت شد"
-    me_tab: "من"
-    picture_tab: "تصاویر"
+not_logged_in: "برای ایجاد تغییر وارد شوید یا ثبت نام نمایید"
+autosave: "تغییرات به طور خودکار ثبت شد"
+me_tab: "من"
+picture_tab: "تصاویر"
 #    delete_account_tab: "Delete Your Account"
 #    wrong_email: "Wrong Email"
 #    wrong_password: "Wrong Password"
@@ -943,7 +943,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    reset_progress_tab: "Reset All Progress"
 #    reset_your_progress: "Clear all your progress and start over"
 #    god_mode: "God Mode"
-    emails_tab: "ایمیل ها"
+emails_tab: "ایمیل ها"
 #    admin: "Admin"
 #    manage_subscription: "Click here to manage your subscription."
 #    new_password: "New Password"
@@ -973,7 +973,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    password_repeat: "Please repeat your password."
 
 #  keyboard_shortcuts:
-#    keyboard_shortcuts: "Keyboard Shortcuts"
+    #    keyboard_shortcuts: "Keyboard Shortcuts"
 #    space: "Space"
 #    enter: "Enter"
 #    press_enter: "press enter"
@@ -994,7 +994,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    maximize_editor: "Maximize/minimize code editor."
 
 #  community:
-#    main_title: "CodeCombat Community"
+    #    main_title: "CodeCombat Community"
 #    introduction: "Check out the ways you can get involved below and decide what sounds the most fun. We look forward to working with you!"
 #    level_editor_prefix: "Use the CodeCombat"
 #    level_editor_suffix: "to create and edit levels. Users have created levels for their classes, friends, hackathons, students, and siblings. If create a new level sounds intimidating you can start by forking one of ours!"
@@ -1013,7 +1013,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    contribute_to_the_project: "Contribute to the project"
 
 #  clans:
-#    clan: "Clan"
+    #    clan: "Clan"
 #    clans: "Clans"
 #    new_name: "New clan name"
 #    new_description: "New clan description"
@@ -1072,7 +1072,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    private_require_sub: "Private clans require a subscription to create or join."
 
 #  courses:
-#    course: "Course"
+    #    course: "Course"
 #    courses: "courses"
 #    create_new_class: "Create New Class"
 #    not_enrolled: "You are not enrolled in this course."
@@ -1353,7 +1353,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    web_dev_language_transition: "All classes program in HTML / JavaScript for this course.  Classes that have been using Python will start with extra JavaScript intro levels to ease the transition.  Classes that are already using JavaScript will skip the intro levels."
 
 #  teacher:
-#    course_solution: "Course Solution"
+    #    course_solution: "Course Solution"
 #    level_overview_solutions: "Level Overview and Solutions"
 #    teacher_dashboard: "Teacher Dashboard" # Navbar
 #    my_classes: "My Classes"
@@ -1529,7 +1529,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    student_great_detail: "This student might be a good candidate to help other students working through this course."
 
 #  sharing:
-#    game: "Game"
+    #    game: "Game"
 #    webpage: "Webpage"
 #    your_students_preview: "Your students will click here to see their finished projects! Unavailable in teacher preview."
 #    unavailable: "Link sharing not available in teacher preview."
@@ -1546,10 +1546,10 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    copy_url: "Copy URL"
 
 #  game_dev:
-#    creator: "Creator"
+    #    creator: "Creator"
 
 #  web_dev:
-#    image_gallery_title: "Image Gallery"
+    #    image_gallery_title: "Image Gallery"
 #    select_an_image: "Select an image you want to use"
 #    scroll_down_for_more_images: "(Scroll down for more images)"
 #    copy_the_url: "Copy the URL below"
@@ -1564,7 +1564,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    back_to_editing: "Back to Editing"
 
 #  classes:
-#    archmage_title: "Archmage"
+    #    archmage_title: "Archmage"
 #    archmage_title_description: "(Coder)"
 #    archmage_summary: "If you are a developer interested in coding educational games, become an archmage to help us build CodeCombat!"
 #    artisan_title: "Artisan"
@@ -1585,7 +1585,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    teacher_title: "Teacher"
 
 #  editor:
-#    main_title: "CodeCombat Editors"
+    #    main_title: "CodeCombat Editors"
 #    article_title: "Article Editor"
 #    thang_title: "Thang Editor"
 #    level_title: "Level Editor"
@@ -1671,14 +1671,14 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    done_adding: "Done Adding"
 
 #  article:
-#    edit_btn_preview: "Preview"
+    #    edit_btn_preview: "Preview"
 #    edit_article_title: "Edit Article"
 
 #  polls:
-#    priority: "Priority"
+    #    priority: "Priority"
 
 #  contribute:
-#    page_title: "Contributing"
+    #    page_title: "Contributing"
 #    intro_blurb: "CodeCombat is 100% open source! Hundreds of dedicated players have helped us build the game into what it is today. Join us and write the next chapter in CodeCombat's quest to teach the world to code!"
 #    alert_account_message_intro: "Hey there!"
 #    alert_account_message: "To subscribe for class emails, you'll need to be logged in first."
@@ -1747,7 +1747,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    helpful_ambassadors: "Our Helpful Ambassadors:"
 
 #  ladder:
-#    please_login: "Please log in first before playing a ladder game."
+    #    please_login: "Please log in first before playing a ladder game."
 #    my_matches: "My Matches"
 #    simulate: "Simulate"
 #    simulation_explanation: "By simulating games you can get your game ranked faster!"
@@ -1812,7 +1812,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    ogres: "Blue"
 
 #  user:
-#    stats: "Stats"
+    #    stats: "Stats"
 #    singleplayer_title: "Singleplayer Levels"
 #    multiplayer_title: "Multiplayer Levels"
 #    achievements_title: "Achievements"
@@ -1828,7 +1828,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    not_member_of_clans: "Not a member of any clans yet."
 
 #  achievements:
-#    last_earned: "Last Earned"
+    #    last_earned: "Last Earned"
 #    amount_achieved: "Amount"
 #    achievement: "Achievement"
 #    current_xp_prefix: ""
@@ -1840,7 +1840,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    left_xp_postfix: ""
 
 #  account:
-#    payments: "Payments"
+    #    payments: "Payments"
 #    prepaid_codes: "Prepaid Codes"
 #    purchased: "Purchased"
 #    subscription: "Subscription"
@@ -1871,7 +1871,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    verify_error: "Something went wrong when verifying your email :("
 
 #  account_invoices:
-#    amount: "Amount in US dollars"
+    #    amount: "Amount in US dollars"
 #    declined: "Your card was declined"
 #    invalid_amount: "Please enter a US dollar amount."
 #    not_logged_in: "Log in or create an account to access invoices."
@@ -1881,7 +1881,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    success: "Successfully paid. Thanks!"
 
 #  account_prepaid:
-#    purchase_code: "Purchase a Subscription Code"
+    #    purchase_code: "Purchase a Subscription Code"
 #    purchase_code1: "Subscription Codes can be redeemed to add premium subscription time to one or more accounts for the Home version of CodeCombat." #
 #    purchase_code2: "Each CodeCombat account can only redeem a particular Subscription Code once."
 #    purchase_code3: "Subscription Code months will be added to the end of any existing subscription on the account."
@@ -1905,12 +1905,12 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    you_can3: "that can be applied to your own account or given to others."
 
 #  coppa_deny:
-#    text1: "Can’t wait to learn programming?"
+    #    text1: "Can’t wait to learn programming?"
 #    text2: "Your parents will need to create an account for you to use! Email team@codecombat.com if you have any questions."
 #    close: "Close Window"
 
 #  loading_error:
-#    could_not_load: "Error loading from server"
+    #    could_not_load: "Error loading from server"
 #    connection_failure: "Connection Failed"
 #    connection_failure_desc: "It doesn’t look like you’re connected to the internet! Check your network connection and then reload this page."
 #    login_required: "Login Required"
@@ -1930,7 +1930,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    general_desc: "Something went wrong, and it’s probably our fault. Try waiting a bit and then refreshing the page, or visit one of the following links to get back to programming!"
 
 #  resources:
-#    level: "Level"
+    #    level: "Level"
 #    patch: "Patch"
 #    patches: "Patches"
 #    system: "System"
@@ -1941,7 +1941,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    campaigns: "Campaigns"
 
 #  concepts:
-#    advanced_css_rules: "Advanced CSS Rules"
+    #    advanced_css_rules: "Advanced CSS Rules"
 #    advanced_css_selectors: "Advanced CSS Selectors"
 #    advanced_html_attributes: "Advanced HTML Attributes"
 #    advanced_html_tags: "Advanced HTML Tags"
@@ -2046,7 +2046,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    while_loops: "While Loops"
 
 #  delta:
-#    added: "Added"
+    #    added: "Added"
 #    modified: "Modified"
 #    not_modified: "Not Modified"
 #    deleted: "Deleted"
@@ -2056,7 +2056,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    no_changes: "No Changes"
 
 #  legal:
-#    page_title: "Legal"
+    #    page_title: "Legal"
 #    opensource_intro: "CodeCombat is completely open source."
 #    opensource_description_prefix: "Check out "
 #    github_url: "our GitHub"
@@ -2112,7 +2112,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    third_party_description: "CodeCombat uses the following third party services (among others):"
 
 #  ladder_prizes:
-#    title: "Tournament Prizes" # This section was for an old tournament and doesn't need new translations now.
+    #    title: "Tournament Prizes" # This section was for an old tournament and doesn't need new translations now.
 #    blurb_1: "These prizes will be awarded according to"
 #    blurb_2: "the tournament rules"
 #    blurb_3: "to the top human and ogre players."
@@ -2132,7 +2132,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    oreilly: "ebook of your choice"
 
 #  calendar:
-#    year: "Year"
+    #    year: "Year"
 #    day: "Day"
 #    month: "Month"
 #    january: "January"
